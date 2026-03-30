@@ -10,7 +10,7 @@
 /* Estilos para o Fundo Mágico */
 body {
     color: #ffffff;
-    background: url(imagens/bg.JPG) no-repeat center center fixed;
+    background: url(img.JPG) no-repeat center center fixed;
     background-size: cover;
     font-family: "Roboto Mono", monospace;
     line-height: 1.4;
